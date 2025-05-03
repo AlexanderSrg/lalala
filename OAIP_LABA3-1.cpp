@@ -5,7 +5,7 @@ struct Stack{
     int info;
     Stack* next;
 };
-
+//gugyggjygjh
 Stack* InStack(Stack* p, int in);
 void View(Stack* p);
 void Del_All(Stack** p);
